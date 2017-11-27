@@ -3,7 +3,7 @@ package basic.programs;
 import java.util.Scanner;
 
 public class FactorailWithIteration {
-    //Write a code For FactorialWithIteration
+    //Write a code For FactorialWithIteration 
 	
 	public static void main(String[] args) {
 		
