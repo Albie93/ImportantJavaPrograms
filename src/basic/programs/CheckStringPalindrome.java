@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CheckStringPalindrome {
 	
-	
+	//write a program to checkStrinPalindrome
 	public static void main(String[] args) {
 		
 		String a,b;
